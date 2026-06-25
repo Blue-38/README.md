@@ -44,4 +44,4 @@ ing_flip.save(output_image)
 - 以下のように入力画像の左右反転画像が出力されます。
 
 |入力画像(input.jpg)|出力画像(output.jpg)
-|
+|:----:|:----:|
