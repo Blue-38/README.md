@@ -43,7 +43,6 @@ ing_flip.save(output_image)
 
 - 以下のように入力画像の左右反転画像が出力されます。
 
-|入力画像(input.jpg)|出力画像(output.jpg)
+|入力画像(input.jpg)|出力画像(output.jpg)|
 |:----:|:----:|
-|<img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/83ba444a-074b-4504-a88f-08da7ed0022a" />
-|<img width="1275" height="850" alt="input" src="https://github.com/user-attachments/assets/e910211c-f526-48a5-9564-f26514c8577d" />|
+|<img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/83ba444a-074b-4504-a88f-08da7ed0022a" />|<img width="1275" height="850" alt="input" src="https://github.com/user-attachments/assets/e910211c-f526-48a5-9564-f26514c8577d" />|
