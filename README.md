@@ -32,13 +32,13 @@ ing_flip.save(output_image)
 3.1. 実行例
 
 - コマンドラインフォーマット
-
+```python
 　　python3 flip.py <input\_image\_path> <output\_image\_path>
-
+```
 - 利用例
-
+```python
     python3 file.py input.jpg output.jpg
-
+```
 3.2. 出力結果
 
 - 以下のように入力画像の左右反転画像が出力されます。
