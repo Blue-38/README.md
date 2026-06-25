@@ -46,4 +46,5 @@ ing_flip.save(output_image)
 |入力画像(input.jpg)|出力画像(output.jpg)|
 |:-----:|:-----:|
 |<img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/f1c99395-2d87-47c9-a124-d5c8aae7827a" />|<img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/64e75d64-afae-4ff9-826f-c0c79a4c9e81" />|
+
 以上
